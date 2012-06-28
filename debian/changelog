@@ -2,7 +2,7 @@ python-statsd (1.1+nmu2+bc1) squeeze; urgency=low
 
   * Don't copy init script
 
- -- Bruno Clermont <bruno.clermont@gmail.com>  Wed 27 Jun 2012 12:36:29 +0300
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Wed, 27 Jun 2012 12:36:29 +0300
 
 python-statsd (1.1+nmu2) squeeze; urgency=low
 
